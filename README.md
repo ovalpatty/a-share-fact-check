@@ -252,4 +252,4 @@ This tool verifies the consistency of public information only. It does not predi
 
 ## License
 
-MIT
+MIT-0
